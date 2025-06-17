@@ -11,11 +11,10 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex items-center">
             <img 
-              src="/logo.png" 
+              src="/public/sootra-logo.png" 
               alt="Sootra Logo" 
-              className="h-10 w-auto"
+              className="h-12 w-auto"
             />
-            <span className="text-[#1314FF] text-3xl font-bold uppercase tracking-widest ml-1">SOOTRA</span>
           </div>
 
           {/* Desktop Navigation */}
