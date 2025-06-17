@@ -11,7 +11,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex items-center">
             <img 
-              src="/public/sootra-logo.png" 
+              src="/sootra-logo.png" 
               alt="Sootra Logo" 
               className="h-12 w-auto"
             />
